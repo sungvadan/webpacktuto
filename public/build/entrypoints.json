@@ -2,7 +2,23 @@
   "entrypoints": {
     "rep_log": {
       "js": [
-        "/build/rep_log.js"
+        "/build/manifest.80a9cf1c.js",
+        "/build/layout.0ee8a511.js",
+        "/build/rep_log.1650c06f.js"
+      ],
+      "css": [
+        "/build/layout.90e75378.css"
+      ]
+    },
+    "login": {
+      "js": [
+        "/build/manifest.80a9cf1c.js",
+        "/build/layout.0ee8a511.js",
+        "/build/login.1efd153d.js"
+      ],
+      "css": [
+        "/build/layout.90e75378.css",
+        "/build/login.a103f5b0.css"
       ]
     }
   }
